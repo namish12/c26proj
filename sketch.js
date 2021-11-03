@@ -77,13 +77,13 @@ function draw() {
     }
   }
 
-  /*if(board1Collision.collided){
+  if(board1Collision.collided){
     board1.remove();
   }
 
   if(board2Collision.collided){
     board2.remove();
-   } */
+   } 
 
   // Title
   fill("#FFFF");
